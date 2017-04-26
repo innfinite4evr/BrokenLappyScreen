@@ -11,6 +11,6 @@ echo '         0000_____________0000________0000000000000000__000000000000000000
        000____000_______000____000_______00000+                             
         00000000_________00000000_______0000000+                            
           0000_____________0000________000000007'
-echi Flying fekk by innfinite4evr
+echo Flying fekk by innfinite4evr
 xrandr --auto --output VGA-1 --mode 1440x900
 xrandr --auto --output LVDS-1 --off
